@@ -1,0 +1,31 @@
+.header {
+    background-color: #f0a500;
+    color: #381e18;
+  }
+  
+  .info {
+    background-color: #f5f5dc;
+  }
+  
+  .info h2 {
+    background-color: #ffcc99;
+    color: #381e18;
+    text-align: center;
+  }
+  
+  .info .image-container {
+    text-align: center;
+  }
+  
+  .info .image-container img {
+    max-width: 100%;
+    width: 55%;
+    height: auto;
+  }
+  
+  .info h3 {
+    background-color: #c68c53;
+    color: #381e18;
+    text-align: center;
+  }
+  
